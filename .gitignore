@@ -1,13 +1,35 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Rider ignored files
-/projectSettingsUpdater.xml
-/modules.xml
-/.idea.IntakerTestTask.API.iml
-/contentModel.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+.idea/
+.history/
+
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.vs/
+.vscode/
+*.pdb
+*.dll
+*.exe
+*.log
+*.cache
+*.swp
+
+dist/
+out-tsc/
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+angular.json
+*.tsbuildinfo
+
+*.env
+*.env.local
+*.env.*.local
+appsettings.json
+appsettings.*.json
+
+.DS_Store
+Thumbs.db
+*.tmp
