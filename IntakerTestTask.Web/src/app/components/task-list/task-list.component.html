@@ -1,0 +1,10 @@
+<div class="task-list-container">
+    <div *ngFor="let task of tasks;" class="task-item">
+        <span>{{ task.id }}</span>
+        <span>{{ task.name }}</span>
+        <span>{{ task.description }}</span>
+        <span>{{ task.status | taskStatusToString: TaskStatus }}</span>
+        <span>{{ task.assignedTo ?? '---' }}</span>
+        <button *ngIf="task.status != desiredTaskStatus" (click)="onUpdateStatus(task.id)">Update Status To In Progress</button>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfli1SPURtI=",
+  "success": true,
+  "projectFilePath": "/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyListener/DummyListener.csproj",
+  "expectedPackageFiles": [
+    "/Users/olegkuts/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/olegkuts/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/olegkuts/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/olegkuts/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/olegkuts/.nuget/packages/riok.mapperly/4.1.1-next.0/riok.mapperly.4.1.1-next.0.nupkg.sha512"
+  ],
+  "logs": []
+}

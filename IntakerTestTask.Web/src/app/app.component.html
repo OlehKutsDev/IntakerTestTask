@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="actions-section">
+    <button (click)="createTask()" class="btn">Create</button>
+  </div>
+  <div>
+    <app-task-list 
+      [tasks]="tasks"
+      (statusUpdated)="onStatusUpdated($event)"
+    ></app-task-list>
+  </div>
+</div>

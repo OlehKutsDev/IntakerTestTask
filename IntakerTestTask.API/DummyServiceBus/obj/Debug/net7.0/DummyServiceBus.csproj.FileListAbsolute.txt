@@ -1,0 +1,12 @@
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/bin/Debug/net7.0/DummyServiceBus.deps.json
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/bin/Debug/net7.0/DummyServiceBus.dll
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/bin/Debug/net7.0/DummyServiceBus.pdb
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.csproj.AssemblyReference.cache
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.AssemblyInfoInputs.cache
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.AssemblyInfo.cs
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.csproj.CoreCompileInputs.cache
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.dll
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/refint/DummyServiceBus.dll
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/DummyServiceBus.pdb
+/Users/olegkuts/RiderProjects/IntakerTestTask.API/DummyServiceBus/obj/Debug/net7.0/ref/DummyServiceBus.dll

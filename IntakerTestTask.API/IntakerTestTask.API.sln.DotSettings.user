@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fbf9021a960b74107a7e141aa06bc9d8a0a53c929178c2fb95b1597be8af8dc_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServiceBusProcessor_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fa48c93f113b6b2a8dc38f73419f68bc414e6dcb7c5b8de3555874b94673715a5_003FServiceBusProcessor_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServiceProvider_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F19ba5a289f2afd3f4d5e862cb3f3efee6181683a31ee31b86c2298b1f51114b_003FServiceProvider_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17f8ac89_002Dc5f2_002D4d13_002D9c2e_002D3d929fa6b630/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TaskServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8::net7.0::IntakerTestTask.Tests.Application.Services.TaskServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a196c87_002D04d2_002D40c6_002Da777_002D28097d0abdce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateTaskAsync_ShouldCallRepositoryAndServiceBus" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8/d:Application/d:Services/f:TaskServiceTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8::net7.0::IntakerTestTask.Tests.Infrastructure.Handlers.ServiceBusHandlerTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f1747437_002D5535_002D4d13_002D9eda_002Da4a67afbfa33/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UpdateTaskStatusAsync_ShouldCallRepositoryAndServiceBus" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8::net7.0::IntakerTestTask.Tests.Application.Services.TaskServiceTests.UpdateTaskStatusAsync_ShouldCallRepositoryAndServiceBus&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8::net7.0::IntakerTestTask.Tests.Application.Services.TaskServiceTests.CreateTaskAsync_ShouldCallRepositoryAndServiceBus&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

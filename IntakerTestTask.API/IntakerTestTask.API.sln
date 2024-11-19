@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntakerTestTask.API", "IntakerTestTask.API\IntakerTestTask.API.csproj", "{4989BE45-D7D4-4CE9-845C-7B3DF3F39DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntakerTestTask.Application", "IntakerTestTask.Application\IntakerTestTask.Application.csproj", "{DB16978D-4BAA-498E-9069-347AEE3FF77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntakerTestTask.Persistence", "IntakerTestTask.Persistence\IntakerTestTask.Persistence.csproj", "{9028E261-99B6-4D18-A569-C6A0C6DC4EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntakerTestTask.Infrastructure", "IntakerTestTask.Infrastructure\IntakerTestTask.Infrastructure.csproj", "{C98C1C25-07CB-43CE-9F8A-52569AAE0B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyListener", "DummyListener\DummyListener.csproj", "{D60DF3AE-96E7-46EA-9864-94EE34652D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntakerTestTask.Tests", "IntakerTestTask.Tests\IntakerTestTask.Tests.csproj", "{D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4989BE45-D7D4-4CE9-845C-7B3DF3F39DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4989BE45-D7D4-4CE9-845C-7B3DF3F39DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4989BE45-D7D4-4CE9-845C-7B3DF3F39DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4989BE45-D7D4-4CE9-845C-7B3DF3F39DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB16978D-4BAA-498E-9069-347AEE3FF77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB16978D-4BAA-498E-9069-347AEE3FF77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB16978D-4BAA-498E-9069-347AEE3FF77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB16978D-4BAA-498E-9069-347AEE3FF77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9028E261-99B6-4D18-A569-C6A0C6DC4EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9028E261-99B6-4D18-A569-C6A0C6DC4EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9028E261-99B6-4D18-A569-C6A0C6DC4EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9028E261-99B6-4D18-A569-C6A0C6DC4EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98C1C25-07CB-43CE-9F8A-52569AAE0B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98C1C25-07CB-43CE-9F8A-52569AAE0B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98C1C25-07CB-43CE-9F8A-52569AAE0B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98C1C25-07CB-43CE-9F8A-52569AAE0B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60DF3AE-96E7-46EA-9864-94EE34652D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60DF3AE-96E7-46EA-9864-94EE34652D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60DF3AE-96E7-46EA-9864-94EE34652D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60DF3AE-96E7-46EA-9864-94EE34652D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68CEA6C-BCD5-4F77-AD8B-51A900FDCDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
